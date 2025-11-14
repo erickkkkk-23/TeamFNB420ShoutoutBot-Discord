@@ -8,10 +8,6 @@
 
 # TEAMFNB420 Shoutout Bot
 
-<div align="center" style="margin-top: 10px;">
-  <b>Trovo <span style="color: orange;">(coming soon)</span></b>
-</div>
-
 ## Notice
 
 The **fully integrated version** of the TEAMFNB420 Shoutout Bot is exclusively available in the official FNBUBBLES420 Organization Discord server, a registered 501(c)(3) nonprofit. This bot supports **13 major streaming platforms** and is provided **free of charge** to TEAMFNB420 members—no server subscription required. To access the full feature set, please [join our Discord community](https://fnbubbles420.org/discordinvite).
@@ -45,8 +41,6 @@ The **fully integrated version** of the TEAMFNB420 Shoutout Bot is exclusively a
 		<td></td>
 	</tr>
 </table>
-
-*Note: The project folder currently includes a limited number of platform files. This will be reduced from six to zero in future releases.*
 
 Availability for other Discord servers is coming soon via a **guild subscription**. Subscriptions will be considered donations (monthly or annual) and will directly support our mission. FNBUBBLES420 Organization is a registered 501(c)(3) nonprofit. Verify us [IRS.GOV](https://apps.irs.gov/app/eos/)
 
