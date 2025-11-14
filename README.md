@@ -39,6 +39,12 @@ The **fully integrated version** of the TEAMFNB420 Shoutout Bot is exclusively a
     <td></td>
     <td></td>
   </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 </div>
 
