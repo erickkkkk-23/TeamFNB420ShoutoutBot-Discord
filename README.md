@@ -40,7 +40,7 @@ The **fully integrated version** of the TEAMFNB420 Shoutout Bot is exclusively a
 	</tr>
 	<tr>
 		<td align="center"><img src="icons/beamgg-seeklogo.png" alt="Beam.gg" width="100" height="100"/><br/>Beam.gg</td>
-		<td> <td align="center"><img src="icons/trovo-seeklogo.png" alt="Trovo" width="100" height="100"/><br/>Trovo</td></td>
+		<td align="center"><img src="icons/trovo-seeklogo.png" alt="Trovo" width="100" height="100"/><br/>Trovo</td></td>
 		<td></td>
 		<td></td>
 	</tr>
