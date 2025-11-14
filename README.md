@@ -66,5 +66,3 @@ We are dedicated to empowering disabled individuals, including those with autism
 **⭐ If you find this project helpful, please star the repository!**
 
 **Made with ❤️ for the Discord community.**
-
-</div>
