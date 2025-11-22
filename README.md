@@ -59,7 +59,14 @@ The **fully integrated version** of the TEAMFNB420 Shoutout Bot is exclusively a
 - Twitter/X Live
 
 
-Availability for other Discord servers is coming soon via a **guild subscription**. Subscriptions will be considered donations (monthly or annual) and will directly support our mission. FNBUBBLES420 Organization is a registered 501(c)(3) nonprofit. Verify us [IRS.GOV](https://apps.irs.gov/app/eos/)
+## Availability for other Discord servers **FINALLY HERE** via a **guild subscription**. Each Server is limited to 5,000 streamers added. We are sorry about the unlimited part. that is only for our server only. Subscriptions will be donations (monthly or annual) and will directly support our mission. FNBUBBLES420 Organization is a registered 501(c)(3) nonprofit. Verify us [IRS.GOV](https://apps.irs.gov/app/eos/). Join The Discord Server To Add The `TeamFNB420Shoutout` bot. 
+
+### Commands
+- `/addstreamer`
+- `/removestreamer`
+- `help`
+- `ping`
+- `liststreamers`
 
 ### Our Mission
 
